@@ -1,0 +1,113 @@
+.fa-pencil{
+	font-size: 40px;
+	float: left;
+	color: blue;
+}
+
+.fa-message{
+	font-size: 40px;
+	float: left;
+	color: orange;
+}
+
+.fa-chart-simple{
+	font-size: 40px;
+	float: left;
+	color: green;
+}
+
+.fa-location-dot{
+	font-size: 40px;
+	float: left;
+	color: red;
+}
+
+
+.fa-rocket{
+	font-size: 40px;
+	float: right;
+	color: red;
+}
+
+.fa-user{
+	font-size: 40px;
+	float: right;
+	color: green;
+}
+
+
+.fa-chart-pie{
+	font-size: 40px;
+	float: right;
+	color: orange;
+}
+
+.fa-ticket{
+	font-size: 40px;
+	float: right;
+	color: lightblue;
+
+}
+
+.fa-book-open{
+	font-size: 40px;
+	float: right;
+	color: lightblue;
+}
+
+.fa-comments{
+	font-size: 40px;
+	float: right;
+	color: orange;
+}
+
+
+.fa-eye{
+	font-size: 40px;
+	float: right;
+	color: green;
+}
+
+.fa-signs-post{
+	font-size: 40px;
+	float: right;
+	color: red;
+}
+
+
+.head1{
+	font-size: 35px;
+}
+
+.float-place2{
+	float: left;
+}
+.float-place{
+	float: right;
+}
+
+
+.head{
+	font-size: 35px;
+}
+
+.a{
+	color: red;
+}
+
+.b{
+	color: green;
+}
+
+.c{
+	color: orange;
+}
+
+.d{
+	color: lightblue;
+}
+
+*{
+	box-sizing: border-box;
+	
+}

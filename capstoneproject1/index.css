@@ -1,0 +1,262 @@
+.a{
+	height:600px;
+	width:1000px;
+	background-image: url("capstoneimages/image3.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.b{
+	height:400px;
+	width:1000px;
+	background-color: black;
+}
+.v1{
+	height:400px;
+	width:280px;
+	background-image: url("capstoneimages/fish.jpg");
+	float: left;
+	margin-left: 50px;
+	margin-right: 20px;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	
+}
+.v2{
+	height: 400px;
+	width:280px;
+	
+	background-image: url("capstoneimages/chimpu.jpg");
+	float: left;
+	margin-right: 20px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.v3{
+	height: 400px;
+	width:300px;
+	background-image: url("capstoneimages/crock.jpg");
+	float: right;
+
+	margin-right: 50px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.s1{
+	color: white;
+	padding-top: 150px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.s2{
+	color: white;
+	padding-top: 160px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.s3{
+	color: white;
+	padding-top: 150px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.c{
+	
+	height:160px;
+	width:1000px;
+	background-color: black;
+}
+
+.d{
+	height:600px;
+	width:1000px;
+	background-image: url("capstoneimages/image2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+.p1{
+	color:white;
+}
+.p2{ 
+	padding-top: 300px;
+	color: white;
+	font-size: 40px;
+	padding-bottom: 1px;
+}
+.p3{
+
+    
+	color: white;
+	font-style: bold;
+}
+.e{
+	height: 500px;
+	width:1000px;
+	background-color: black
+}
+.p5{ 
+	padding-top: 80px;
+	color: white;
+	font-size: 40px;
+	padding-bottom:30px;
+}
+.p6{ 
+	color: white;
+	font-size: 15px;
+
+}
+.p3{
+	padding-top:200px;
+	font-size: 50px;
+	color: white;
+}
+.p4{
+	color: white;
+	font-size:25px
+}
+button{
+	background-color: white;
+	height: 40px;
+	width: 120px;
+	border-radius: 50px;
+	border: none;
+	
+}
+.f{
+	height: 500px;
+	width: 1000px;
+	background-image: url("capstoneimages/pic2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.g{
+	height: 400px;
+	width: 1000px;
+	background-color:black 
+}
+.i{
+	height: 300px;
+	width:400px;
+	background-image:url('capstoneimages/oct.jpg');
+	border-color: red;
+
+
+	float: right;
+	margin-left:px;
+	margin-right: 50px;
+	margin-top: 60px;
+	margin-bottom: 10px;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	
+}
+.h{
+	height: 300px;
+	width:400px;
+	background-image: url("capstoneimages/pic3.jpg");
+	float: left;
+	margin-left:50px;
+	margin-right:50px;
+	margin-top: 60px;
+	margin-bottom: 10px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+.j{
+	height: 300px;
+	width:1000px;
+	background-color: black
+}
+.d1{
+	color:white;
+	font-size: 50px;
+	padding-top: 50px;
+
+}
+.md{
+	height:3800px;
+	width:1000px;
+	background-color: black
+}
+.k{
+	height: 300px;
+	width: 1000px;
+	background-color:black;
+}
+.l{
+	height: 200px;
+	width:215px;
+	background-image: url("capstoneimages/pic4.jpg");
+	margin-right: 10px;
+	margin-top: 20px;
+	margin-left:50px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	float: left;
+	
+	
+}
+.m{
+	height: 200px;
+	width:215px;
+	background-image: url("capstoneimages/ele.jpg");
+	margin-right: 10px;
+	margin-top: 20px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	float: left;
+	
+	
+}
+.n{
+	height: 200px;
+	width:215px;
+	background-image: url("capstoneimages/mk.jpg");
+	margin-right: 10px;
+	margin-top: 20px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	float: left;
+	
+	
+}
+.o{
+	height: 200px;
+	width:215px;
+	background-image: url("capstoneimages/eag.jpg");
+	margin-right: 50px;
+	margin-top: 20px;
+	margin-left: 10px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	float: right;
+}
+.q{
+	height: 200px;
+	width: 1000px;
+	background-color:black;
+
+}
+.r{
+	height: 100px;
+	width: 300px;
+	background-color:black;
+	float: left;
+	margin-left: 50px
+}
+.s{
+	height: 100px;
+	width: 300px;
+	background-color:black;
+	float: left;
+}
+.t{
+	height: 100px;
+	width: 300px;
+	background-color:black;
+	float: right;
+	margin-right: 50px;
+}

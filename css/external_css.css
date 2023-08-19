@@ -1,0 +1,39 @@
+#external{
+	border:3px solid red;
+	background-color:violet;
+}
+#adp{
+	font-size:3px solid red;
+	font-family:cursive;
+	background-color:violet;
+
+}
+input[type]{
+	color :blue;
+}
+input[type="text"]{
+	color :yellow;
+}
+input[type="number"]{
+	color :green;
+}
+a[href]{
+	background-color:red;
+}
+a:hover{
+	color:red;
+	font-size: 20px
+}
+
+a:link{
+	color:brown;
+}
+a:active{
+	color:yellow;
+}
+a:hover{
+	height:30px;
+	width:40px;
+	background-color: red;
+}
+

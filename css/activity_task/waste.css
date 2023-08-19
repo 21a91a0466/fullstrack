@@ -1,0 +1,183 @@
+.md{
+	background-color: #c0c4c1;
+	height: 950px;
+	width: 1200px;
+}
+
+.div1{
+	background-color: ghostwhite;
+	height: 50px;
+	width: 1200px;
+	text-align: center;
+	box-sizing: border-box;
+	margin: 5px;
+}
+
+
+button{
+	border-radius: 5px;
+	border-width: 0px;
+	height: 30px;
+	width: 100px;
+	color: white;
+	margin-top: 5px;
+	
+}
+
+.b1{
+	background-color: #00FF00;
+}
+
+.b2{
+	background-color: lightblue;
+}
+.b5{
+	background-color: red;
+}
+
+.div2{
+	background-color: #c0c4c1;
+	height: 900px;
+	width: 1200px;
+}
+
+
+.divmain21{
+	background-color: #c0c4c1;
+	height: 800px;
+	width: 400px;
+	float: left;
+	margin: 10px;
+}
+
+.div21{
+	height: 700px;
+	width: 400px;
+	background-color: white;
+	padding: 20px;
+	border-radius: 10px;
+	box-sizing: border-box;
+}
+
+.image21{
+	height: 80px;
+	width: 80px;
+	
+}
+.b21{
+	background-color: blue;
+}
+
+.b22{
+	color: blue;
+	border: 2px solid #3d5cf5;
+
+}
+.spaces{
+	padding: 20px;
+}
+
+.para212{
+	display: inline;
+	text-align: right;
+	text-align: justify;
+}
+.head212{
+	display: inline;
+	text-align: center;
+	text-align: justify;
+
+}
+.fa-chrome{
+	font-size: 30px;
+	color: black;
+	padding: 5px;
+}
+.fa-github{
+	font-size: 30px;
+	color: black;
+	padding: 5px;
+
+}
+.fa-twitter{
+	font-size: 30px;
+	color: lightblue;
+	padding: 5px;
+}
+.fa-instagram{
+	font-size: 30px;
+	color: red;
+	padding: 5px;
+}
+.fa-facebook{
+	font-size: 30px;
+	color: lightblue;
+	padding: 5px;
+}
+
+
+
+
+
+
+
+.div22{
+	height: 700px;
+	width: 700px;
+	background-color: #c0c4c1;
+	float: left;
+	margin: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.div221{
+	background-color: white;
+	height: 300px;
+	width: 700px;
+	padding: 20px;
+	margin: 10px;
+	border-radius: 10px;
+}
+
+
+.lablestyle{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.inputstyle{
+	width: 400px;
+	float: right;
+	margin: 10px;
+}
+.b221{
+	background-color: blue;
+	margin-left: 250px;
+	color: white;
+
+
+}
+
+.div222{
+	background-color: white;
+	height: 400px;
+	width: 700px;
+	padding: 20px;
+	margin: 10px;
+	border-radius: 10px;
+}
+
+
+.input2{
+	width: 670px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
